@@ -65,4 +65,4 @@ Open the notebook in `Juptyer Notebook/` in Google Colab. It expects a `heart_di
 
 ## Author
 
-Sami Hotak, Software Engineering student, Ghalib University, Herat.
+Sami Hotak, Software Engineering graduate, Ghalib University, Herat.
